@@ -15,8 +15,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  */
 public class MainTest 
 {
-	
-	String driverPath = "src/main/resources/";
     /**
      * Rigorous Test :-)
      */
